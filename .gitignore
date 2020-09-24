@@ -6,7 +6,4 @@ coverage
 .idea
 .env
 config.jsonc
-config.json
-config.dev.jsonc
-config.dev.json
 config.deploy.json
